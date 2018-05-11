@@ -5,13 +5,14 @@
 .header-top{
   font-size: 12px;
   padding:8px;
-  background-color: #222222;
+  background-color: #c23939;
   a{
-    color:#fff;
+    color:rgb(255, 255, 255);
   }
   ul li{
     display:inline-block;
     margin-right: 30px;
+    color: #fff;
   }
 
 
@@ -70,7 +71,7 @@
   right: 0;
   transition: all 0.5s;
   z-index: 997;
-  background: #fff!important;
+  background: rgb(35, 21, 117)!important;
 }
 
 #header.header-scrolled {

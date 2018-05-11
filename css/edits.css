@@ -1,0 +1,39 @@
+/* Header edits */
+
+#header{
+    background-color:#337AB7 !important;
+    height: 180px;
+}
+
+#htv{
+    color: #fff;
+}
+
+#home{
+    color: #fff;
+}
+
+#ab{
+    color: #fff;
+}
+
+#facebook{
+    color: #fff;
+}
+
+#linkedin{
+    color: #fff;
+}
+
+h10{
+    font-family:'PT Sans', sans-serif;
+    color:white;
+		font-size: 48px;
+		font-weight: 700;
+		line-height: 2em;
+		margin-top:20px;
+		margin-bottom:20px;
+		
+}
+
+
