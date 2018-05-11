@@ -35,5 +35,10 @@ h10{
 		margin-bottom:20px;
 		
 }
-
+p {
+   font-family:'PT Sans', sans-serif !important;
+}
+h2{
+ color: #fff;   
+}
 
