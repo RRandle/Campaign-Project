@@ -256,7 +256,6 @@
 	    left: 0;
 	    width: 48%;
 	    height: 100%;
-	    background: url(../img/about-img.jpg) no-repeat center center/cover;
 	    z-index: 1;
 	    @media(max-width:991px){
 			display:none;
@@ -272,7 +271,12 @@
 	h1{
 		margin-bottom:20px;
 	}
-
+	.home-about-left{
+		max-width:580px;
+		padding-right:80px; 
+		@media(max-width:1024px){
+			padding-left:15px;
+		}
 
 	.home-about-right{
 		max-width:580px;
@@ -880,3 +884,4 @@
 	}
 }
 //----------- End Generic Page -------------//
+}
